@@ -1,16 +1,6 @@
 {
     "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ]
+        { lat: 12.92, lon: 77.61, area: 'Madiwala' },
+        { lat: 12.90, lon: 77.64, area: 'HSR Layout' }
+      ]
 }
