@@ -1,6 +1,14 @@
 {
     "posts": [
-        { lat: 12.92, lon: 77.61, area: 'Madiwala' },
-        { lat: 12.90, lon: 77.64, area: 'HSR Layout' }
-      ]
+    {
+        "lat": 12.92,
+        "lon": 77.61,
+        "area": "Madiwala"
+    },
+    {
+        "lat": 12.9,
+        "lon": 77.64,
+        "area": "HSR Layout"
+    }
+]
 }
